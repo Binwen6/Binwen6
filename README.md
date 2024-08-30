@@ -1,9 +1,6 @@
 ### Hi there 👋 
 ### This is Binwen6!
 
-<div align=center>
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Gaiejj&?count_private=true&theme=merko&title_color=6d7fba&bg_color=eac4d5&text_color=ad6e8f">
-</div>
 
 ![暗色](https://raw.githubusercontent.com/binwen6/binwen6/8229523d5d57a0810799f68263732cad61f198bb/github-contribution-grid-snake.svg)
 
