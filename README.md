@@ -1,17 +1,15 @@
 ### Hi there 👋 
 ### This is Binwen6!
 
-### Hi there 👋  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Gaiejj.Gaiejj">
-
 <div align=center>
   <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Gaiejj&?count_private=true&theme=merko&title_color=6d7fba&bg_color=eac4d5&text_color=ad6e8f">
 </div>
 
-![暗色](https://raw.githubusercontent.com/Gaiejj/Gaiejj/8229523d5d57a0810799f68263732cad61f198bb/github-contribution-grid-snake.svg)
+![暗色](https://raw.githubusercontent.com/binwen6/binwen6/8229523d5d57a0810799f68263732cad61f198bb/github-contribution-grid-snake.svg)
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Gaiejj/count.svg" />
+  <img src="https://profile-counter.glitch.me/binwen6/count.svg" />
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -19,15 +17,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Gaiejj&margin-w=5&row=1&column=7" alt="Gaiejj" /></a> </p>
 
-**Gaiejj** is a ✨ _student_ ✨ at **Peking University**.
 
-- 🔭 I’m currently working on **[PKU-Alignment](https://github.com/PKU-Alignment)**.
-- 🌱 I’m currently learning Reinforcement Learning, specifically, **Safe Reinforcement Learning**.
-- 👯 I’m looking to collaborate on coding, docs and so on.
-- 📫 How to reach me: 
-
-  📧 email: gaiejj@outlook.com
-  
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Binwen6)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/滨闻-刘-149529285/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:L1045028202@gmail.com)
@@ -36,7 +26,12 @@ Welcome to my Github page! I am Binwen Liu and I am currently finishing my Artif
  
 <img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
  
- 
+ **binwen6** is a ✨ _student_ ✨ at **Xi'an Jiaotong University**.
+
+- 👯 I’m looking to collaborate on coding, docs and so on.
+- 📫 How to reach me: 
+
+  📧 email: l1045028202@stu.xjtu.edu.cn
 #### 🌱 Things I am currently working on: 
 - Finish my Artificial Intelligence Bachelor Degree 
 - Taking online courses about Machine Learning and Deep Learning
