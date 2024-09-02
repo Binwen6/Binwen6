@@ -1,6 +1,5 @@
 # Hi there 👋 Welcome to Binwen's GitHub Profile!
 
-![snake animation](https://github.com/Binwen6/Binwen6/blob/output/github-contribution-grid-snake2.svg)
 
 I'm **Binwen Liu**, an AI major and open-source enthusiast. My goal is to become a proficient AI researcher by improving my skills through collaboration. Let's connect and learn together!
 
