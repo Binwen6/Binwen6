@@ -1,5 +1,8 @@
 # Hi there 👋 Welcome to Binwen's GitHub Profile!
 
+![暗色](https://raw.githubusercontent.com/Binwen6/Binwen6/output/github-contribution-grid-snake-dark.svg)
+![亮色](https://raw.githubusercontent.com/Binwen6/Binwen6/output/github-contribution-grid-snake.svg)
+
 
 I'm **Binwen Liu**, an AI major and open-source enthusiast. My goal is to become a proficient AI researcher by improving my skills through collaboration. Let's connect and learn together!
 
