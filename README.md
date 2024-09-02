@@ -1,6 +1,6 @@
 # Hi there 👋 Welcome to Binwen's GitHub Profile!
 
-# ![暗色](https://raw.githubusercontent.com/Binwen6/Binwen6/output/github-contribution-grid-snake-dark.svg)
+[![暗色](https://raw.githubusercontent.com/Binwen6/Binwen6/output/github-contribution-grid-snake-dark.svg)](url)
 ![亮色](https://raw.githubusercontent.com/Binwen6/Binwen6/output/github-contribution-grid-snake.svg)
 
 
