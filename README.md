@@ -9,16 +9,16 @@ I'm **Binwen Liu**, an AI major and open-source enthusiast. My goal is to become
 ---
 
 ### 🛠️ **Technologies & Tools**
-- **Programming Languages**: Python, JavaScript, HTML, CSS
-- **Frameworks**: TensorFlow, PyTorch, Flask
-- **Tools**: VSCode, Git, Docker
-- **Cloud Services**: AWS, Google Cloud, Azure
+- **Programming Languages**: Python, Jupyter, Matlab, C++, Rust, HTML, CSS, JavaScript
+- **Frameworks**: PyTorch, Flask, Vue
+- **Tools**: VSCode, Git
+- **Cloud Services**: Google Cloud, Microsoft OneDrive, AutoDL
 
 ---
 
 ### 🚀 **Current Goals**
-- 🌱 Learning about **Advanced AI Models** and **Machine Learning Optimization**.
-- 💻 Contributing to **open-source projects** related to **AI** and **Data Science**.
+- 🌱 Learning about **LLM(Large Language Models)** and **RLHF(Reinforcement Learning from Human Feedback)**.
+- 💻 Contributing to **open-source projects** related to **AI** and **Robotics**.
 - 📚 Writing more **tech articles** on GitHub Pages.
 
 ---
@@ -47,4 +47,4 @@ I'm **Binwen Liu**, an AI major and open-source enthusiast. My goal is to become
 ---
 
 ### 🎮 **Fun Fact**
-When I'm not coding, you can find me playing table tennis 🎾 or diving into the latest AI research papers. My GitHub is always active, and I'm constantly looking for new challenges!
+When I'm not coding, you can find me watching movies or accompanying my gf (lol...). My GitHub is always active, and I'm constantly looking for new challenges!
