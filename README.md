@@ -17,9 +17,9 @@ I'm **Binwen Liu**, an AI major and open-source enthusiast. My goal is to become
 ---
 
 ### 🚀 **Current Goals**
-- 🌱 Learning about **LLM(Large Language Models)** and **RLHF(Reinforcement Learning from Human Feedback)**.
-- 💻 Contributing to **open-source projects** related to **AI** and **Robotics**.
-- 📚 Writing more **tech articles** on GitHub Pages.
+- 🌱 Learning about **LLM(Large Language Models)** and **BCI(Brain-Computer Interface)**.
+- 💻 Contributing to **open-source projects** related to **Deep Learning** and **AI4Science**.
+- 📚 Writing more **tech blogs** on tech forums.
 
 ---
 
@@ -41,7 +41,7 @@ I'm **Binwen Liu**, an AI major and open-source enthusiast. My goal is to become
 
 ### 🔗 **Connect with Me**
 - **Email**: L1045028202@stu.xjtu.edu.cn / binwenliu.ai@gmail.com / L1045028202@berkeley.edu
-- **LinkedIn**: [Binwen Liu](https://www.linkedin.com/in/binwenliu/)
+- **LinkedIn**: [Binwen Liu](https://www.linkedin.com/in/binwen-liu/)
 - **Twitter**: [@Binwen6](https://twitter.com/Binwen6)
 
 ---
