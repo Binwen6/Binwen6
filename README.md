@@ -42,6 +42,7 @@ I'm **Binwen Liu**, an AI major and open-source enthusiast. My goal is to become
 ### 🔗 **Connect with Me**
 - **Email**: L1045028202@stu.xjtu.edu.cn / binwenliu.ai@gmail.com / L1045028202@berkeley.edu
 - **LinkedIn**: [Binwen Liu](https://www.linkedin.com/in/binwen-liu/)
+- **WeChat**: 13623850866
 - **Twitter**: [@Binwen6](https://twitter.com/Binwen6)
 
 ---
