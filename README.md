@@ -11,8 +11,8 @@ I'm **Binwen Liu**, an AI major and open-source enthusiast. My goal is to become
 ### 🛠️ **Technologies & Tools**
 - **Programming Languages**: Python, Jupyter, Matlab, C++, Rust, HTML, CSS, JavaScript
 - **Frameworks**: PyTorch, Flask, Vue
-- **Tools**: VSCode, Git
-- **Cloud Services**: Google Cloud, Microsoft OneDrive, AutoDL
+- **Tools**: VSCode, Git, Docker
+- **Cloud Services**: Google Cloud, AutoDL, Vast.ai
 
 ---
 
@@ -46,5 +46,5 @@ I'm **Binwen Liu**, an AI major and open-source enthusiast. My goal is to become
 
 ---
 
-### 🎮 **Fun Fact**
+### 🍿 **Fun Fact**
 When I'm not coding, you can find me watching movies or accompanying my gf (lol...). My GitHub is always active, and I'm constantly looking for new challenges!
