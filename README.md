@@ -30,14 +30,6 @@ I'm **Binwen Liu**, an AI major and open-source enthusiast. My goal is to become
 
 ---
 
-### 🎯 **Profile Rating & Badges**
-- **Overall Rating**: 🌟🌟🌟🌟
-- **Badges Earned**:
-  - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-  - ![AI Enthusiast](https://img.shields.io/badge/-AI%20Enthusiast-brightgreen?style=flat-square)
-  - ![Open-Source Lover](https://img.shields.io/badge/-Open--Source%20Lover-blue?style=flat-square)
-
----
 
 ### 🔗 **Connect with Me**
 - **Email**: L1045028202@stu.xjtu.edu.cn / binwenliu.ai@gmail.com / L1045028202@berkeley.edu
