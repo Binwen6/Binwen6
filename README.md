@@ -17,7 +17,7 @@ I'm **Binwen Liu**, an AI major and open-source enthusiast. My goal is to become
 ---
 
 ### 🚀 **Current Goals**
-- 🌱 Learning about **LLM(Large Language Models)** and **BCI(Brain-Computer Interface)**.
+- 🌱 Learning about **CMCL(Cross-Modal Contrast Learning)** and **BCI(Brain-Computer Interface)**.
 - 💻 Contributing to **open-source projects** related to **Deep Learning** and **AI4Science**.
 - 📚 Writing more **tech blogs** on tech forums.
 
