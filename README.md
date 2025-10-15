@@ -33,6 +33,7 @@ I'm **Binwen Liu**, an AI major and open-source enthusiast. My goal is to become
 
 
 ### 🔗 **Connect with Me**
+- **Institution**: National Key Laboratory of Human-Machine Hybrid Augmented Intelligence & Institute of Artificial Intelligence and Robotics
 - **Email**: liubinwen@stu.xjtu.edu.cn / binwenliu.ai@gmail.com / liubinwen@berkeley.edu
 - **LinkedIn**: [Binwen Liu](https://www.linkedin.com/in/binwen-liu/)
 - **WeChat**: 13623850866
