@@ -39,5 +39,5 @@ I'm **Binwen Liu**, an AI major and open-source enthusiast. My goal is to become
 
 ---
 
-### 🤫 **Personal Fact**
+### **Miscellaneous**
 Once inspired by Douglas Hofstadter & Max Tegmark
