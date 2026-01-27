@@ -9,7 +9,8 @@ I'm **Binwen Liu**, an AI major and open-source enthusiast. My goal is to become
 ---
 
 ### Vision
-> "I want to understand how the brain works, not just from a philosophy perspective, not just in a general way, but in a detailed nuts and bolts mathematical and engineering ways. My desire is not only to understand what intelligence is and how the brain works, but how to build machines that work in the same way. I want to build truly intelligent machines." inspired by J. Hawkins.
+> "I want to understand how the brain works, not just from a philosophy perspective, not just in a general way, but in a detailed nuts and bolts mathematical and engineering ways. My desire is not only to understand what intelligence is and how the brain works, but how to build machines that work in the same way. I want to build truly intelligent machines."
+>                                                                                                                                                       --inspired by J. Hawkins.
 
 ### 🛠️ **Technologies & Tools**
 - **Programming Languages**: Python, Jupyter, Matlab, C++, Rust, HTML, CSS, JavaScript
