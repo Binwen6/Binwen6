@@ -16,8 +16,8 @@ I'm **Binwen Liu**, an AI major and open-source enthusiast. My goal is to become
 ---
 
 ###  🔎 **Research Interests**
-- Brain-inspired LLMs/VLMs
-- Alignment & Model Interpretability
+- Cognition-inspired LLMs/VLMs & Emergent World Models
+- Representational Alignment & Model Interpretability
 - AI4Science & Science4AI
 
 ---
