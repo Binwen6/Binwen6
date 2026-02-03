@@ -17,16 +17,9 @@ I'm **Binwen Liu**, an AI major and open-source enthusiast. My goal is to become
 
 ###  🔎 **Research Interests**
 - Cognition-inspired LLMs/VLMs & Emergent World Models
-- Representational Alignment & Model Interpretability
+- REPA & Interpretability
 - AI4Science & Science4AI
 
----
-
-### 📊 **GitHub Stats**
-<div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Binwen6&show_icons=true&theme=radical" alt="Binwen's GitHub Stats" style="width: 48%;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Binwen6&layout=compact&theme=radical" alt="Top Languages" style="width: 36%;">
-</div>
 
 ---
 
