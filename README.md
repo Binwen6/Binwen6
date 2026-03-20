@@ -1,4 +1,4 @@
-             # Hi there 👋 Welcome to Binwen's GitHub Profile!
+# Hi there 👋 Welcome to Binwen's GitHub Profile!
 
 
 ![亮色](https://raw.githubusercontent.com/Binwen6/Binwen6/output/github-contribution-grid-snake.svg)
