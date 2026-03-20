@@ -1,4 +1,4 @@
-# Hi there 👋 Welcome to Binwen's GitHub Profile!
+             # Hi there 👋 Welcome to Binwen's GitHub Profile!
 
 
 ![亮色](https://raw.githubusercontent.com/Binwen6/Binwen6/output/github-contribution-grid-snake.svg)
@@ -10,7 +10,7 @@ I'm **Binwen Liu**, an AI major and open-source enthusiast working on the inters
 
 ### Vision
 > "I want to understand how the brain works, not just from a philosophy perspective, not just in a general way, but in a detailed nuts and bolts mathematical and engineering ways. My desire is not only to understand what intelligence is and how the brain works, but how to build machines that work in the same way. I want to build truly intelligent machines."
->                                                                                                                                                       --inspired by J. Hawkins.
+> 
 
 
 ---
