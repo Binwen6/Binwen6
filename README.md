@@ -16,8 +16,8 @@ I'm **Binwen Liu**, an AI major and open-source enthusiast working on the inters
 ---
 
 ###  🔎 **Research Interests**
-- cognitive benchmarking & Evaluation of LLMs/Agents
-- cognitive architecture-inspired AI design
+- Cognitive benchmarking & evaluation of LLMs/Agents
+- Cognitive architecture-inspired AI design
 
 ---
 
