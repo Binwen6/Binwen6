@@ -31,4 +31,4 @@ I'm **Binwen Liu**, an AI major and open-source enthusiast working on the inters
 ---
 
 ### **Miscellaneous**
-Once inspired by Douglas Hofstadter & Max Tegmark
+Once inspired by Douglas Hofstadter & Josh Tenenbaum
