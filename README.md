@@ -16,15 +16,15 @@ I'm **Binwen Liu**, an AI major and open-source enthusiast working on the inters
 ---
 
 ###  🔎 **Research Interests**
-- Cognitive benchmarking & evaluation of LLMs/Agents
-- Cognitive architecture-inspired AI design
+- Cognitive mechanism-inspired AI
+- AI4Science
 
 ---
 
 
 ### 🔗 **Connect with Me**
 - **Institution**: National Key Laboratory of Human-Machine Hybrid Augmented Intelligence & Institute of Artificial Intelligence and Robotics
-- **Email**: liubinwen@stu.xjtu.edu.cn / binwenliu.ai@gmail.com / liubinwen@berkeley.edu
+- **Email**: liubinwen@stu.xjtu.edu.cn / binwenliu.ai@gmail.com / liubinwen@berkeley.edu(abandoned)
 - **LinkedIn**: [Binwen Liu](https://www.linkedin.com/in/binwen-liu/)
 
 
